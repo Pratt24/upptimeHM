@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /upptimeHM
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.genetec.com/binaries/content/gallery/genetecweb/graphic-assets/logos/cs-logo-builder-thumbnail-homemakers-furniture_650x366px.jpg/cs-logo-builder-thumbnail-homemakers-furniture_650x366px.jpg/genetecweb%3Asmall
   name: Upptime
   introTitle: "Homemakers Server status"
   introMessage: This site shows the current status of the internal/external sites and their descriptions that HM uses.
