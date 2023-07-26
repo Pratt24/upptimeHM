@@ -18,7 +18,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /upptimeHM
   logoUrl: https://www.genetec.com/binaries/content/gallery/genetecweb/graphic-assets/logos/cs-logo-builder-thumbnail-homemakers-furniture_650x366px.jpg/cs-logo-builder-thumbnail-homemakers-furniture_650x366px.jpg/genetecweb%3Asmall
-  name: Upptime
+  name: Homemakers
   introTitle: "Homemakers Server status"
   introMessage: This site shows the current status of the internal/external sites and their descriptions that HM uses.
   navbar:
